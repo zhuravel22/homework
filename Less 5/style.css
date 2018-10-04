@@ -1,0 +1,14 @@
+.fix{
+    display: block;
+    padding-top: 100px;
+	padding-bottom: 100px;
+    background: url(pic.jpg) no-repeat;
+    background-size: 100px;
+    background-attachment: fixed;
+}
+.scroll{
+    padding-top: 100px;
+	padding-bottom: 100px;
+    background: url(pic.jpg) repeat-y;
+    background-attachment: scroll;
+}
